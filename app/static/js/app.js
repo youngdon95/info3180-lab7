@@ -1,4 +1,4 @@
-/* global angular */
+/* angular js */
 
 var app = angular.module("imgApp", []);
 
